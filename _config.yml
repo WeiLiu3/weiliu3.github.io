@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Liu"
 title_separator          : "-"
 name                     : &name "Wei Liu"
-description              : &description "PhD Student at Virginia Tech, wliu3@vt.edu"
+description              : &description "PhD Student at Virginia Tech"
 url                      : https://weiliu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeiLiu3/weiliu3.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Liu"
   avatar           : "Wei_Liu_photo1.jpg"
-  bio              : "PhD Student, Computer Science, Virginia Tech"
+  bio              : "PhD Student, Computer Science, Virginia Tech, wliu3@vt.edu"
   location         : "Blacksburg, VA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
