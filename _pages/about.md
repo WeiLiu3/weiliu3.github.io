@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Liu  wliu3@vt.edu"
+title: "Wei Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
