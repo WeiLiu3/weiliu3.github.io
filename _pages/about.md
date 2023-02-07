@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a Ph.D. student in Computer Science at [Virginia Tech](https://www.vt.edu/), advised by [Dr. Chris North](https://people.cs.vt.edu/north/). My current work aims to create Explainable AI that can perform interactive and comprehensible analysis of text data powered/driven by deep learning methods. My research interests lie in Visual Analytics, Explainable AI, and Human-AI Collaboration.
 
-
+E-mail: wliu3@vt.edu
 
 
 
