@@ -40,6 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-img {
-  border-radius: 0 !important; /* 强制去除椭圆裁剪 */
+
+.author__avatar img {
+  border-radius: 0 !important; 
 }
