@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*("薇" is a Chinese character referring to a small, resilient wild plant.)*
+*("薇" [wēi] is a Chinese character referring to a small, resilient wild herb.)*
 
 I am a Ph.D. student in Computer Science at [Virginia Tech](https://www.vt.edu/), advised by [Dr. Chris North](https://people.cs.vt.edu/north/) and [Dr. Rebecca Faust](https://rjfaust.github.io/). My research focuses on creating interactive and explainable visual analytics systems for text data. I study how people interpret machine-learned text embeddings and design methods that make these representations more **explainable**, and **steerable**.
 
