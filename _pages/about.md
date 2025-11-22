@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in Computer Science at [Virginia Tech](https://www.vt.edu/), advised by [Dr. Chris North](https://people.cs.vt.edu/north/) and [Dr. Rebecca Faust](https://rjfaust.github.io/). My current work aims to design interactive visual analytics systems that can perform comprehensible analysis of text data powered by deep learning methods. My research interests lie in Visual Analytics, Explainable AI, and Human-AI Collaboration.
+I am a Ph.D. student in Computer Science at [Virginia Tech](https://www.vt.edu/), advised by [Dr. Chris North](https://people.cs.vt.edu/north/) and [Dr. Rebecca Faust](https://rjfaust.github.io/). My research focuses on creating interactive and explainable visual analytics systems for text data. I study how people interpret machine-learned text embeddings and design methods that make these representations more **explainable**, and **steerable**.
+
+Broadly, I work in **Visual Analytics**, **Explainable AI**, and **Human–AI Collaboration**, with the goal of enabling analysts to better understand, explore, and guide AI-powered text analysis.
 
 * Email: wliu3@vt.edu
 
