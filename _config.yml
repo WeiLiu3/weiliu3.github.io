@@ -86,7 +86,7 @@ author:
   location         : "Virginia Tech"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=APq5NjAAAAAJ&hl=en&authuser=2"
   email            : wliu3@vt.edu
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
